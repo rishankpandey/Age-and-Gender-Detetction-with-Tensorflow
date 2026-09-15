@@ -1,6 +1,6 @@
 # Age and Gender Detection with TensorFlow
 
-A legacy computer-vision project for estimating **age** and **gender** from detected faces using a custom multi-output CNN built with TensorFlow/Keras and OpenCV.
+A computer-vision project for estimating **age** and **gender** from detected faces using a custom multi-output CNN built with TensorFlow/Keras and OpenCV.
 
 ## Project pipeline
 
