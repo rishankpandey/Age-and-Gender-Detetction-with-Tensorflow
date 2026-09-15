@@ -25,7 +25,7 @@ class FaceCV(object):
         #self.loaded_model = model_from_json(model_json)
         # load weights
         #self.loaded_model.load_weights("trained.h5")
-        self.loaded_model=keras.models.load_model("New_Age_sex_detection.h5")
+        self.loaded_model=keras.models.load_model("models/Age_sex_detection.h5")
     print("*******************LOADED*******")
 
     @classmethod
